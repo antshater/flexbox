@@ -1,0 +1,24 @@
+{
+  "name": "flexbox_1",
+  "version": "1.0.0",
+  "description": "Задание к главе \"Что такое flexbox?\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-web-dev/Flexbox_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-web-dev/Flexbox_1/issues"
+  },
+  "homepage": "https://github.com/s-web-dev/Flexbox_1#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.10",
+    "gulp": "^4.0.2"
+  }
+}
