@@ -1,5 +1,6 @@
 .flex-container {
     width: 600px;
+    display: flex;
 }
 .flex-element {
     background-color: black;
